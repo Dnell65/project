@@ -47,7 +47,10 @@ p{
     border-radius: 50%;
     background-color: #f2f2f2;
     margin-top: 1%;
-    margin-right: 5%;
-    margin-left: 17.5%;
+    
+    margin-left: 28.5%;
     float: left;
+}
+.projects{
+margin-left: 20%;
 }
